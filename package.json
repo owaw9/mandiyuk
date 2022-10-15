@@ -1,0 +1,18 @@
+{
+  "name": "mandi-yuk",
+  "main": "./lib/mandi-yuk",
+  "version": "0.0.0",
+  "description": "Lets go mandi bosss",
+  "keywords": ["mandi","jemur","nyuci"
+  ],
+  "activationCommands": {
+    "atom-workspace": "mandi-yuk:toggle"
+  },
+  "repository": "https://github.com/atom/mandi-yuk",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

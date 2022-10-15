@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle mandi-yuk",
+        "command": "mandi-yuk:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mandi-yuk",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mandi-yuk:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
