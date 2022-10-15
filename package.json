@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "mandi-yuk:toggle"
   },
-  "repository": "https://github.com/atom/mandi-yuk",
+  "repository": "https://github.com/owaw9/mandiyuk",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
